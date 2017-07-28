@@ -1,0 +1,23 @@
+{
+  "name": "interactive-headline-generator",
+  "version": "1.1.0",
+  "description": "Our Headline generator for inspiring only the best content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ik": "interactive-kit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theprateinteractives/interactive-headline-generator.git"
+  },
+  "author": "James Canning <james@jamescanning.com> (http://brudil.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theprateinteractives/interactive-headline-generator/issues"
+  },
+  "homepage": "https://github.com/theprateinteractives/interactive-headline-generator#readme",
+  "devDependencies": {
+    "interactive-kit": "^1.0.0"
+  }
+}
