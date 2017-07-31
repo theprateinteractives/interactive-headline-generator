@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/theprateinteractives/interactive-headline-generator#readme",
   "devDependencies": {
-    "interactive-kit": "^1.0.0"
+    "interactive-kit": "^1.2.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
   }
 }
